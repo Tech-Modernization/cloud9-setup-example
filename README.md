@@ -6,5 +6,5 @@
 2. Press "Create Environment" & follow setup steps.
 3. Once the environment is created navigate to the terminal and execute:
 ```
-<placeholder>
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/contino/cloud9-setup-example/master/setup.sh)"
 ```
